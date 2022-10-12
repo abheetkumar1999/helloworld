@@ -1,6 +1,6 @@
 Java Strings
 Strings are used for storing text.
-
+// strings are immutable
 A String variable contains a collection of characters surrounded by double quotes:
 
 Example
